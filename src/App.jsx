@@ -24,7 +24,7 @@ const postsData = [
   {
     id: 3,
     title: "Best Homemade Pizza Recipe",
-    image: "/public/pizza.jpg",
+    image: "/pizza.jpg",
     description: "A step-by-step guide to making pizza from scratch.",
     category: "Food",
     date: "2025-06-15",
