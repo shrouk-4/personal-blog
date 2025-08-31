@@ -8,7 +8,7 @@ const categories = [
   { name: "Travel", img: "/images/travel.jpg" },
   { name: "Food", img: "/images/food.jpg" },
   { name: "Lifestyle", img: "/images/lifestyle.jpg" },
-  { name: "Fashion", img:"/public/images/fashion.jpg"},
+  { name: "Fashion", img:"/images/fashion.jpg"},
 ];
 
 // سهم يمين
